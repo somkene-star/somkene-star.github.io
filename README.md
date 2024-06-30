@@ -1,10 +1,10 @@
-# Data Portfolio: Excel to Power BI
+# Data Portfolio:         Excel to Power BI
 
 
-# 
 
 
-![excel-to-powerbi-animated-diagram](assets/excel_sql_powerbi.png)
+
+#![excel-to-powerbi-animated-diagram](assets/excel_sql_powerbi.png)
 
 
 
