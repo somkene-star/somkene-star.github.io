@@ -29,3 +29,29 @@ We need data on the top UK YouTubers in 2024 that includes their
 
 Where is the data coming from? The data is sourced from Kaggle (an Excel extract),
 [see it here](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download)
+
+
+# Design
+## Dashboard componet required
+
+What should the dashboard contain based on the requirements provided?
+To determine the contents of the dashboard, we need to identify the key questions it should answer:
+
+- Who are the top 10 YouTubers with the most subscribers?
+- Which 3 channels have uploaded the most videos?
+- Which 3 channels have the most views?
+- Which 3 channels have the highest average views per video?
+- Which 3 channels have the highest views per subscriber ratio?
+- Which 3 channels have the highest subscriber engagement rate per video uploaded?
+
+
+
+
+
+
+
+
+
+
+
+
