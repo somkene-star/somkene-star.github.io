@@ -19,7 +19,7 @@ Somkenechukwu
 - [Design](https://github.com/somkene-star/somkene-star.github.io/blob/main/assets/docs/README.md#design)
     - [Tools](#tools)
 - [Development](https://github.com/somkene-star/somkene-star.github.io/blob/main/assets/docs/README.md#development)
-   - [Pseudocode](#pseudocode)
+   - [Pseudocode](https://github.com/somkene-star/somkene-star.github.io/tree/main/assets/docs#pseudocode)
    - [Data Exploration](#data-exploration)
    - [Transform the Data](#trans-data)
    - [Create the SQL Tests](#sql-test)
