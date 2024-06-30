@@ -4,7 +4,7 @@
 
 
 
-#![excel-to-powerbi-animated-diagram](assets/excel_sql_powerbi.png)
+![excel-to-powerbi-animated-diagram](assets/excel_sql_powerbi.png)
 
 
 
@@ -34,7 +34,7 @@
 - [Recommendations](#recom)
 - [Conclusion](#conclusion)
 
-  Objective
+
   
 
 
