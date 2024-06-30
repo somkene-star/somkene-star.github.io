@@ -48,14 +48,14 @@ To determine the contents of the dashboard, we need to identify the key question
 ## Pseudocode
 
 - What's the general approach in creating this solution from start to finish?
-  - 1. Get the data
-Explore the data in Excel
-Load the data into SQL Server
-Clean the data with SQL
-Test the data with SQL
-Visualize the data in Power BI
-Generate the findings based on the insights
-Write the documentation + commentary
+  1. Get the data
+  2. Explore the data in Excel
+  3. Load the data into SQL Server
+  4. Clean the data with SQL
+  5. Test the data with SQL
+  6. Visualize the data in Power BI
+  7. Generate the findings based on the insights
+  8. Write the documentation + commentary
 Publish the data to GitHub Pages
 
 
