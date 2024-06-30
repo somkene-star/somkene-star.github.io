@@ -11,7 +11,7 @@
 
 # Table of contents
 
-- [Objective](assets/docs/README.md)
+- [Objective](#assets/docs/README.md)
 - [Data Source](#data-sourc#)
 - [Data Set](https://github.com/somkene-star/somkene-star.github.io/commit/f709917b8be1c72ca7cc7075586283efabee272f)
 - [Stages](#stages)
