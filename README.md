@@ -18,7 +18,7 @@ Somkenechukwu
 - [Stages](#stages)
 - [Design](https://github.com/somkene-star/somkene-star.github.io/blob/main/assets/docs/README.md#design)
     - [Tools](#tools)
-- [Development](#development)
+- [Development](https://github.com/somkene-star/somkene-star.github.io/blob/main/assets/docs/README.md#development)
    - [Pseudocode](#pseudocode)
    - [Data Exploration](#data-exploration)
    - [Transform the Data](#trans-data)
