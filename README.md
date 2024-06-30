@@ -17,7 +17,25 @@
 - [Stages](#stages)
 - [Design](#design)
     - [Tools](#tools)
-- 
+- [Development](#development)
+      - [Pseudocode](#pseudocode)
+      - [Data Exploration](#data-exploration)
+      - [Transform the Data](#trans-data)
+      - [Create the SQL Tests](#sql-test)
+- [Testing](#testing)
+      - [Data Quality Test](#data-quality-test)
+- [Visualization](#visualiztion)
+      - [Result](#result)
+      - [DAX Measures](#dax-measures)
+- [Analysis](#Anaylsis)
+      - [Findings](#)
+      - [Validation](#validation)
+      - [Discovery](#discovery)
+- [Recommendations](#recom)
+- [Conclusion](#conclusion)
+
+  Objective
+  
 
 
 
