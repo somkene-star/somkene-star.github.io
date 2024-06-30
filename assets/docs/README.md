@@ -61,7 +61,7 @@ To determine the contents of the dashboard, we need to identify the key question
 
 # Data Exploration Notes
 
-- At this stage, we're examining the data for errors, inconsistencies, bugs, unusual or corrupted characters, etc.
+## At this stage, we're examining the data for errors, inconsistencies, bugs, unusual or corrupted characters, etc.
 
 - Initial Observations:
 a. Data Coverage: There are at least four columns containing the data necessary for our analysis, indicating that we have     sufficient information without needing to contact the client for additional data.
