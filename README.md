@@ -4,7 +4,7 @@
 # Header or
 
 
-![excel-to-powerbi-animated-diagram](assest
+![excel-to-powerbi-animated-diagram](assets/images/powerbi_dashboard.PNG)
 
 
 
