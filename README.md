@@ -25,7 +25,7 @@ Somkenechukwu
    - [Create the SQL Tests](#sql-test)
 - [Testing](#testing)
    - [Data Quality Test](#data-quality-test)
-- [Visualization](#visualiztion)
+- [Visualization](https://github.com/somkene-star/somkene-star.github.io/commit/b023b2301c3d79bc72bc94317d81f2b68181d80c)
   - [Result](#result)
   - [DAX Measures](#dax-measures)
 - [Analysis](#Anaylsis)
